@@ -1,7 +1,7 @@
 # job_recommendation_website
 Creating a user-friendly AI-driven website to recommend learning resources and help with resume building based on job descriptions is an ambitious and exciting project
 
-Sure! I'll provide you with the necessary source code files and instructions to create your AI-driven job recommendation and resume building website from scratch. Here's a step-by-step guide with the required code snippets for each part:
+I'll provide you with the necessary source code files and instructions to create your AI-driven job recommendation and resume building website from scratch.
 
 ### Step 1: Setting Up Your Environment
 
